@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Felipe Polato Gonçalves</h1>
-<h3 align="center">Desenvolvedor Web Full Stack</h3>
+<h3 align="center">Developer Web Full Stack</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=felipepolato&label=Profile%20views&color=0e75b6&style=flat" alt="felipepolato" /> </p>
 
-- 🌱 I’m currently learning **Aperfeiçoando ReactJs, Aprendendo React Native e Aperfeiçoando NodeJs**
+- 🌱 I’m currently learning **perfecting ReactJs, learning React Native e perfecting NodeJs**
 
 - 👨‍💻 All of my projects are available at [https://github.com/felipepolato](https://github.com/felipepolato)
 

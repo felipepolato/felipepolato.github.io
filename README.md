@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/felipepolato](https://github.com/felipepolato)
 
-- 📫 How to reach me **fepolato@hotmail.com ou polato.felipe.goncalves@gmail.com**
+- 📫 How to reach me **fepolato@hotmail.com or polato.felipe.goncalves@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/felipe-polato/](https://www.linkedin.com/in/felipe-polato/)
 
